@@ -39,5 +39,6 @@ inicio
   
 fim
 
+# FLUXOGRAMA
 
-![Fluxograma Media]()
+![Fluxograma Media](https://github.com/GuilhermePerassi/Media-dos-Alunos/blob/b9399d6d64bfd95e092fe57e6297c6e5e277bcc2/Fluxograma%20Media.png)
